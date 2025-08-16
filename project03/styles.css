@@ -10,16 +10,16 @@ body {
 }
 
 .pimg1 {
-  background-image: url("../IMAGES/image1.png");
+  background-image: url("../IMAGES/project3/image1.png");
   min-height: 100%;
 }
 
 .pimg2 {
-  background-image: url("../IMAGES/image2.png");
+  background-image: url("../IMAGES/project3/image2.png");
   min-height: 400px;
 }
 .pimg3 {
-  background-image: url("../IMAGES/image3.png");
+  background-image: url("../IMAGES/project3/image3.png");
   min-height: 400px;
 }
 .pimg1,
