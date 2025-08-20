@@ -138,7 +138,7 @@ nav li:hover {
 #project h2 {
   font-size: 6rem;
   text-align: center;
-  margin: 2rem 0;
+  padding: 2rem 0;
 }
 
 .project-container {
@@ -231,6 +231,8 @@ nav li:hover {
 .contact-way h3 {
   font-size: 3rem;
   font-weight: bold;
+
+  justify-content: center;
 }
 
 .bottom-contact {
@@ -257,6 +259,17 @@ footer {
    html{
     font-size: 40%;
    }
+    #Hero .container {
+    flex-direction: column;
+}
+#hero-image {
+   display: grid;
+   place-items: center;
+}
+#contact .container {
+    height: 70vh;
+}
+
 }
 
 @media (max-width: 500px) {
